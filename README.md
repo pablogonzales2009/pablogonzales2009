@@ -20,6 +20,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kriskrzem1&show_icons=true&locale=en&layout=compact" alt="kriskrzem1" /></p>
 
+<img src="https://raw.githubusercontent.com/kriskrzem1/Krzem/gh-pages/urmom.png" width="241" height="35" />
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kriskrzem1&show_icons=true&locale=en" alt="kriskrzem1" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriskrzem1&label=Profile%20views&color=0e75b6&style=flat" alt="kriskrzem1" /> </p>
