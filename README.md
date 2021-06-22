@@ -4,7 +4,7 @@
 
 - i'm working on **nothing, currently**
 
-- i'm currently learning **lua, python, c#**
+- i'm currently learning **lua, python**
 
 - reach me by this email: **blackgamer23@pm.me**
 
