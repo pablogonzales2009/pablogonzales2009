@@ -18,7 +18,7 @@
 <h3 align="left">languages and tools i use</h3>
 <p align="left"> <a href="https://www.blender.org/" target="_blank"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-![stats](https://github-readme-stats.vercel.app/api?username=pauljac3&show_icons=true&theme=synthwave)
+![stats](https://github-readme-stats.vercel.app/api?username=pablogonzales2009&show_icons=true&theme=synthwave)
 
 
 <img src="https://raw.githubusercontent.com/kriskrzem1/Krzem/gh-pages/urmom.png" width="241" height="35" />
