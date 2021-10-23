@@ -1,5 +1,5 @@
-<h1 align="center">hi, i'm krzem</h1>
-<h3 align="center">a bad developer</h3>
+<h1 align="center">hi, i'm cbmp</h1>
+<h3 align="center">a bad "developer"</h3>
 
 
 - i'm working on **nothing, currently**
