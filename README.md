@@ -15,8 +15,4 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pablogonzales2009&show_icons=true&theme=synthwave)
 
-
-<img src="https://raw.githubusercontent.com/kriskrzem1/Krzem/gh-pages/urmom.png" width="241" height="35" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kriskrzem1&label=Profile%20views&color=0e75b6&style=flat" alt="kriskrzem1" /> </p>
-<p align="left"> <a href="https://twitter.com/krzemistan" target="blank"><img src="https://img.shields.io/twitter/follow/krzemistan?logo=twitter&style=for-the-badge" alt="krzemistan" /></a> </p>
