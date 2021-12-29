@@ -8,10 +8,9 @@
 
 - reach me by this email: **blackgamer23@pm.me**
 
-<h3 align="left">social media and stuff</h3>
+<h3 align="left">twitter</h3>
 <p align="left">
 <a href="https://twitter.com/krzemistan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krzemistan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrd0r0p6s7lyhhqcuegnuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrd0r0p6s7lyhhqcuegnuga" height="30" width="40" /></a>
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pablogonzales2009&show_icons=true&theme=synthwave)
 
