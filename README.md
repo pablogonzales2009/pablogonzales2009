@@ -6,7 +6,7 @@
 
 - i'm currently learning **lua, python, javascript**
 
-- reach me by this email: **blackgamer23@pm.me**
+- reach me by this email: **blackgamer23@pm.me** (or this, **me@blackgamer23.com**)
 
 <h3 align="left">twitter</h3>
 <p align="left">
