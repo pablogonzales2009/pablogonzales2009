@@ -2,7 +2,7 @@
 <h3 align="center">a bad "developer"</h3>
 
 
-- i'm working on **nothing, currently**
+- i'm working on **HECUSpeak, an unannounced video game**
 
 - i'm currently learning **lua, python, javascript**
 
