@@ -13,6 +13,6 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=pablogonzales2009&show_icons=true&theme=synthwave)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cbmp&label=Profile%20views&color=0e75b6&style=flat" alt="cbmp" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pablogonzales2009&label=Profile%20views&color=0e75b6&style=flat" alt="pablogonzales2009" /> </p>
 
 :trollface:
