@@ -4,7 +4,7 @@
 
 - i'm working on **HECUSpeak and an unannounced video game**
 
-- i'm currently learning **lua, python, javascript**
+- i'm currently learning **python, javascript**
 
 - reach me by this email: **blackgamer23@pm.me**
 
